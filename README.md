@@ -13,6 +13,6 @@ CraftBukkit Plugin
 怒り状態を解除してもそのままMOBやプレイヤーを追尾し続けることがあります
 
 ## 権限 ##
-- makewolfcalmdown.my : 使用プレイヤーに懐いているオオカミの怒り状態を解除出来ます（デフォで付与）
-- makewolfcalmdown.other : 他プレイヤーに懐いているオオカミの怒り状態も解除出来ます（デフォではOPのみ）
-- makewolfcalmdown.wild : 野生のオオカミの怒り状態も解除出来ます（デフォではOPのみ）
+- meloncalmswolf.my : 使用プレイヤーに懐いているオオカミの怒り状態を解除出来ます（デフォで付与）
+- meloncalmswolf.other : 他プレイヤーに懐いているオオカミの怒り状態も解除出来ます（デフォではOPのみ）
+- meloncalmswolf.wild : 野生のオオカミの怒り状態も解除出来ます（デフォではOPのみ）
