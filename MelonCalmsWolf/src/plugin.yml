@@ -1,0 +1,17 @@
+##  Plugin Information  ##
+name: MelonCalmsWolf
+version: 1.0
+main: hinadamari.meloncalmswolf.MelonCalmsWolf
+##  Original Author     ##
+author: hinadamari
+##  Permissions         ##
+permissions:
+    meloncalmswolf.other:
+        description: Allows you to make other's wolf calm down
+        default: op
+    meloncalmswolf.my:
+        description: Allows you to make your wolf calm down
+        default: true
+    meloncalmswolf.wild:
+        description: Allows you to make your wolf calm down
+        default: op
